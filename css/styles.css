@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+	background-color:#039146;
+	color:#1C1C1C
+	}
+.jumbotron{
+	background-image: url("../images/flag-of-italy.png");
+	background-size: auto;
+}
+.navbar-brand {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 30px;
+}
