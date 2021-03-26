@@ -5,8 +5,11 @@
 .display-4{
 	font-family: 'Staatliches', cursive;
 }
-.lead, .card{
+.lead, .card-text{
 	font-family: 'Source Serif Pro', serif;
+}
+.card-title{
+	font-family: 'Staatliches', cursive;
 }
 
 .section-title{
@@ -24,4 +27,7 @@
 .btn{
 	background-color: #C7292C;
 	border: #C7282C
+}
+.btn-secondary{
+	font-family: 'Prompt', sans-serif;
 }
