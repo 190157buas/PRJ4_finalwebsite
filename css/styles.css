@@ -5,13 +5,15 @@
 .display-4{
 	font-family: 'Staatliches', cursive;
 }
-.lead, .card-text{
+.lead {
+	font-family: 'Source Serif Pro', serif;
+}
+.card-text{
 	font-family: 'Source Serif Pro', serif;
 }
 .card-title{
 	font-family: 'Staatliches', cursive;
 }
-
 .section-title{
 	font-family: 'Staatliches', cursive;
 }
